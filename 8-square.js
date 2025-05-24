@@ -9,7 +9,7 @@ if (isNaN(rows) && isNaN(cols)){
 for (let i = 1; i <= rows; i++) {
     let sqr = " ";
     for (let j = 1; j <= cols; j++){
-        sqr += "x";
+        sqr += "X";
     }
     console.log(sqr);
     };
